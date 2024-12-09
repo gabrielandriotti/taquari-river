@@ -1,6 +1,7 @@
-# 🎈 Blank app template
+# 💧 Taquari River level over time 📏
+Measured since 2019 in Muçum, Rio Grande do Sul, Brazil
 
-A simple Streamlit app template for you to modify!
+This is a simple dashboard that explores the data from the web service of the [Brazilian Water Agency](https://dadosabertos.ana.gov.br) and applies data techniques for Anomaly Detection and Forecasting.
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://taquari-river.streamlit.app/)
 
